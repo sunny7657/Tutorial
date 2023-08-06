@@ -1,0 +1,13 @@
+ul {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 20px;
+  list-style: none;
+}
+
+.item {
+  width: 300px;
+  border: 1px solid black;
+  padding: 15px;
+}
